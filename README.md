@@ -1,1 +1,5 @@
-This is a build on a school project for Introduction Class to Internet Basics and Beginning HTML
+#Purpose of this Project
+This project was a school assignment for a introduction class to Internet Basics and Beginning HTML.
+
+#Explore the site
+[Explore]: home_sl.html
